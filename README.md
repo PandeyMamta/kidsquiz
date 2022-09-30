@@ -1,1 +1,1 @@
-# kidsquiz
+# kidsgame
